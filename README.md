@@ -8,8 +8,7 @@ Doe het web het een beetje goed?
 
 Voor deze deeltaak heb ik de website pinterest uitgekozen. Pinterest is een website waarbij mensen verschillende foto's en videos kunnen delen, andere kunnen dezen foto's en videos bewaren en ze in hun eigen moodboard plaatsen. 
 
-[
-](https://nl.pinterest.com/)
+https://nl.pinterest.com/
 
 ![Screenshot 2024-04-16 at 23 50 41](https://github.com/rileyesther/break-the-web/assets/144009597/9d504862-95fb-48ca-850f-6919aa247a29)
 
