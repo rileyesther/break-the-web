@@ -6,7 +6,10 @@ Doe het web het een beetje goed?
 
 ## Pinterest
 
-Voor deze deeltaak heb ik de website pinterest uitgekozen.
+Voor deze deeltaak heb ik de website pinterest uitgekozen. Pinterest is een website waarbij mensen verschillende foto's en videos kunnen delen, andere kunnen dezen foto's en videos bewaren en ze in hun eigen moodboard plaatsen. 
+
+[
+](https://nl.pinterest.com/)
 
 ![Screenshot 2024-04-16 at 23 50 41](https://github.com/rileyesther/break-the-web/assets/144009597/9d504862-95fb-48ca-850f-6919aa247a29)
 
@@ -19,7 +22,6 @@ Voor deze deeltaak heb ik de website pinterest uitgekozen.
 ![Screenshot 2024-04-16 at 23 57 05](https://github.com/rileyesther/break-the-web/assets/144009597/d4b7e06e-7a2d-48cf-ba4b-b10df40d0aca)
 
 ![Screenshot 2024-04-16 at 23 57 19](https://github.com/rileyesther/break-the-web/assets/144009597/0a39cf36-a7d1-453e-b16b-29df035c7984)
-
 
 ![Screenshot 2024-04-16 at 23 47 39](https://github.com/rileyesther/break-the-web/assets/144009597/15283d5d-a3a1-4b7d-8310-1ac508dc060b)
 
