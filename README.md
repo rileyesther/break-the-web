@@ -16,6 +16,11 @@ Voor deze deeltaak heb ik de website pinterest uitgekozen.
 
 ![Screenshot 2024-04-16 at 23 51 38](https://github.com/rileyesther/break-the-web/assets/144009597/0ea49850-8337-4cdb-a5e4-5ce8c87c5fd3)
 
+![Screenshot 2024-04-16 at 23 57 05](https://github.com/rileyesther/break-the-web/assets/144009597/d4b7e06e-7a2d-48cf-ba4b-b10df40d0aca)
+
+![Screenshot 2024-04-16 at 23 57 19](https://github.com/rileyesther/break-the-web/assets/144009597/0a39cf36-a7d1-453e-b16b-29df035c7984)
+
+
 ![Screenshot 2024-04-16 at 23 47 39](https://github.com/rileyesther/break-the-web/assets/144009597/15283d5d-a3a1-4b7d-8310-1ac508dc060b)
 
 ![Screenshot 2024-04-16 at 23 48 03](https://github.com/rileyesther/break-the-web/assets/144009597/b6c91661-7913-4740-ae12-bb7123821354)
