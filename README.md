@@ -4,13 +4,28 @@
 
 Doe het web het een beetje goed?
 
-## Titel Website
+## Pinterest
 
-Welke website heb je getest? Beschrijf de website die je hebt geanalyseerd en de datum dat je hebt getest. Voeg de url en een screenshot van de website toe.  
+Voor deze deeltaak heb ik de website pinterest uitgekozen.
 
-Toon een screenshot van de performance test.
+![Screenshot 2024-04-16 at 23 50 41](https://github.com/rileyesther/break-the-web/assets/144009597/9d504862-95fb-48ca-850f-6919aa247a29)
 
-Schrijf een samenvatting van de testbevindingen en verwijs naar je Wiki voor een uitgebreide rapportage.
+![Screenshot 2024-04-16 at 23 50 59](https://github.com/rileyesther/break-the-web/assets/144009597/4ddfcbc7-87f5-4f2c-9cba-ee8d17243500)
+
+![Screenshot 2024-04-16 at 23 51 24](https://github.com/rileyesther/break-the-web/assets/144009597/db9d1e70-f6bc-4876-bd9d-b3ea3c058d3c)
+
+![Screenshot 2024-04-16 at 23 51 38](https://github.com/rileyesther/break-the-web/assets/144009597/0ea49850-8337-4cdb-a5e4-5ce8c87c5fd3)
+
+![Screenshot 2024-04-16 at 23 47 39](https://github.com/rileyesther/break-the-web/assets/144009597/15283d5d-a3a1-4b7d-8310-1ac508dc060b)
+
+![Screenshot 2024-04-16 at 23 48 03](https://github.com/rileyesther/break-the-web/assets/144009597/b6c91661-7913-4740-ae12-bb7123821354)
+
+![Screenshot 2024-04-16 at 23 48 22](https://github.com/rileyesther/break-the-web/assets/144009597/32564e1d-802e-4d3f-8e25-ece6e92d3d5e)
+
+![Screenshot 2024-04-16 at 23 48 34](https://github.com/rileyesther/break-the-web/assets/144009597/abc89b8f-f389-4f02-9325-3a2ba5ed3444)
+
+![Screenshot 2024-04-16 at 23 48 45](https://github.com/rileyesther/break-the-web/assets/144009597/40466ba3-acbe-441e-97c8-af4bc17564f1)
+
 
 
 ## Licentie
