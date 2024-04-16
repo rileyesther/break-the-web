@@ -6,7 +6,7 @@ Doe het web het een beetje goed?
 
 ## Pinterest
 
-Voor deze deeltaak heb ik de website pinterest uitgekozen. Pinterest is een website waarbij mensen verschillende foto's en videos kunnen delen, andere kunnen dezen foto's en videos bewaren en ze in hun eigen moodboard plaatsen. 
+Voor deze deeltaak heb ik de website pinterest uitgekozen. Pinterest is een website waarbij mensen verschillende foto's en videos kunnen delen, andere kunnen dezen foto's en videos bewaren en ze in hun eigen moodboard plaatsen. Ik heb testen uitgevoerd op deze website op 15/04
 
 https://nl.pinterest.com/
 
